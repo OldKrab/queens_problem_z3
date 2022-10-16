@@ -1,0 +1,8 @@
+/matrices
+build
+.clang*
+.cache
+.vscode
+compile_commands.json
+.idea
+
